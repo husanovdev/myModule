@@ -1,3 +1,3 @@
-module github.com/husanovdev/myModule
+module myModule
 
 go 1.20
